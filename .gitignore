@@ -1,0 +1,9 @@
+# Folders to exclude
+.idea
+node_modules/
+dist
+
+#
+*.yaml
+.DS_Store
+.env
